@@ -1,0 +1,31 @@
+/* colors that i use
+ */
+h6{color: #404258 #474E68 #50577A #6B728E ;}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    margin-top: 17px;
+    margin-left: 30px;
+}
+
+ul a {
+    margin-left: 2vw;
+}
+
+.home {
+    margin-left: 25vw;
+}
+.search-bar{margin-left: 18vw;}
+.search{
+    margin-left: 1.5vw;
+    
+}
+.logo-text{
+    
+}
+.navigation{background-color: #404258;}
